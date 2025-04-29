@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Henny+Penny&family=Loved+by+the+King&display=swap');
+
+
+body {
+    background-color: rgb(244, 234,140);
+
+
+    font-family: 'Emilys Candy', cursive; /* Fonte fofinha pra Amalia amostradinha*/
+    text-align: center;
+    justify-content: space-around;
+    display: block;
+    width: 50%;
+    margin: 0;
+}
+
+.loved-by-the-king-regular {
+    font-family: "Loved by the King", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+button {
+    width: 100%;
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 15px;
+    font-size: 20px; /* Aumentando a fonte do botão */
+    text-align: center;
+    background-color: #ff66b2;
+    color: white;
+    border: black 3px solid;
+    cursor: pointer;
+    border-radius: 12px; /* Botões mais arredondados */
+    transition: transform 0.2s ease;
+}
+
+
+
+
+h1 {
+    color: rgb(249, 255, 192); /* Cor do texto */
+    background-color: rgba(240, 6, 220, 0.5); /* Fundo semitransparente para melhorar a leitura */
+    border: 3px solid black; /* Borda preta ao redor */
+    padding: 100px; /* Espaço interno para afastar o texto da*/
+}
+
+
