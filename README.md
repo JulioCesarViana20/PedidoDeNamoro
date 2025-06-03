@@ -27,5 +27,5 @@ Este projeto tem como objetivo proporcionar uma maneira criativa e interativa de
 ## 🚀 Como Executar
 
 1. Clone o repositório:
-   ```bash
+
    git clone https://github.com/JulioCesarViana20/PedidoDeNamoro.git
